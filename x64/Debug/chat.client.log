@@ -1,0 +1,5 @@
+﻿  chat.client.cpp
+C:\programin\projects\cpp\chat.client\chat.client\filetransferclass.h(75,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'chat.client.cpp')
+  
+  chat.client.vcxproj -> C:\programin\projects\cpp\chat.client\x64\Debug\chat.client.exe
